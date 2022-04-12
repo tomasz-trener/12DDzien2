@@ -43,7 +43,11 @@ namespace P15TypyZmiennych
             string[] tab2 = tab;
             tab2[0] = "x";
 
+            //https://github.com/tomasz-trener/12DDzien1
+            //https://github.com/tomasz-trener/12DDzien2
 
+            //http://pl.spoj.com/problems/
+            //https://www.codewars.com/ 
         }
     }
 }
