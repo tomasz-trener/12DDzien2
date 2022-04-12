@@ -35,6 +35,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P15TypyZmiennych", "P15Typy
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P16WlasneKlasy", "P16WlasneKlasy\P16WlasneKlasy.csproj", "{8E20C82F-1275-43F3-AB64-125C4031A89C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P17UsingPytanieDodatkowe", "P17UsingPytanieDodatkowe\P17UsingPytanieDodatkowe.csproj", "{7EABB2BA-ED95-4A9C-A458-76DC3D3168A8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +107,10 @@ Global
 		{8E20C82F-1275-43F3-AB64-125C4031A89C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8E20C82F-1275-43F3-AB64-125C4031A89C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8E20C82F-1275-43F3-AB64-125C4031A89C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EABB2BA-ED95-4A9C-A458-76DC3D3168A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EABB2BA-ED95-4A9C-A458-76DC3D3168A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EABB2BA-ED95-4A9C-A458-76DC3D3168A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EABB2BA-ED95-4A9C-A458-76DC3D3168A8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
