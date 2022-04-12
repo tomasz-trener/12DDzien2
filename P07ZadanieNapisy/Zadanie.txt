@@ -1,0 +1,9 @@
+﻿
+wersja 1
+Porpos o wczytanie dowolnego zdania np: Ala ma kota
+wyświetl najdłuższy wyraz 
+
+wersja 2 (rozszerzona)
+Porpos o wczytanie dowolnego zdania np: Ala ma kota
+wyświetl wszystkie najdłuższe wyrazy
+

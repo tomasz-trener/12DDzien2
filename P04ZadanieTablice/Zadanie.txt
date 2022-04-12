@@ -1,0 +1,21 @@
+﻿
+
+Napsz program ,który wczytuje imiona (w petli z konsoli) np:
+
+
+Jan
+Adam
+Ala
+Lukasz
+koniec
+
+spróbuj wczytać te imiona do tablicy
+
+następnie w petli wypisz wszystkie imiona wraz z długością liter każego z imion
+
+
+odpowiedz:
+Jan (3)
+Adam (4)
+Ala (3)
+Lukasz(6)
